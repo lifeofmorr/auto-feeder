@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://auto-feeder.lifeofmorr.com/sitemap.xml
